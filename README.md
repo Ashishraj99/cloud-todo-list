@@ -3,7 +3,7 @@
 Run these commands:
 
 
-`sudo apt install nodejs`
+`sudo apt install node js
 
 
 `sudo apt install npm`
@@ -13,7 +13,7 @@ Run these commands:
 
 `node app.js`
 
-or Run by docker compose
+or Run by docker-compose
 
 test
 
